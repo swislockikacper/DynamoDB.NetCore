@@ -27,7 +27,7 @@ namespace DynamoDB.NetCore
         {
             var clients = await context.ScanAsync<Client>(new List<ScanCondition>()).GetRemainingAsync();
 
-            Console.WriteLine("ALL STUDENTS:");
+            Console.WriteLine("ALL CLIENTS:");
 
             foreach(var client in clients)
             {
@@ -39,7 +39,7 @@ namespace DynamoDB.NetCore
         {
             var client = await context.LoadAsync<Client>(id);
 
-            Console.WriteLine($"STUDENT WITH ID = {id}:");
+            Console.WriteLine($"CLIENT WITH ID = {id}:");
             Console.WriteLine($"FullName: {client.FullName}, Age: {client.Age}");
         }
 
@@ -61,7 +61,7 @@ namespace DynamoDB.NetCore
             var result = await query.GetRemainingAsync();
             var clients = result.ToArray();
 
-            Console.WriteLine($"USERS WHICH FULLNAMEW CONTAINS {fullName}:");
+            Console.WriteLine($"CLIENTS WHICH FULLNAME CONTAINS {fullName}:");
 
             foreach(var client in clients)
             {
@@ -87,7 +87,7 @@ namespace DynamoDB.NetCore
              var result = await query.GetRemainingAsync();
             var clients = result.ToArray();
 
-            Console.WriteLine($"USERS WHICH AGE IS BIGGER THAN {age}:");
+            Console.WriteLine($"CLIENTS WHICH AGE IS BIGGER THAN {age}:");
 
             foreach(var client in clients)
             {
