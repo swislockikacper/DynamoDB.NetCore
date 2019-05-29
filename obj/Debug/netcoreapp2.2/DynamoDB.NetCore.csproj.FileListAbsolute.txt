@@ -1,0 +1,11 @@
+C:\Users\kswislocki\Desktop\Projekty\DynamoDB.NetCore\bin\Debug\netcoreapp2.2\DynamoDB.NetCore.deps.json
+C:\Users\kswislocki\Desktop\Projekty\DynamoDB.NetCore\bin\Debug\netcoreapp2.2\DynamoDB.NetCore.runtimeconfig.json
+C:\Users\kswislocki\Desktop\Projekty\DynamoDB.NetCore\bin\Debug\netcoreapp2.2\DynamoDB.NetCore.runtimeconfig.dev.json
+c:\Users\kswislocki\Desktop\Projekty\DynamoDB.NetCore\bin\Debug\netcoreapp2.2\DynamoDB.NetCore.dll
+c:\Users\kswislocki\Desktop\Projekty\DynamoDB.NetCore\bin\Debug\netcoreapp2.2\DynamoDB.NetCore.pdb
+c:\Users\kswislocki\Desktop\Projekty\DynamoDB.NetCore\obj\Debug\netcoreapp2.2\DynamoDB.NetCore.csprojAssemblyReference.cache
+c:\Users\kswislocki\Desktop\Projekty\DynamoDB.NetCore\obj\Debug\netcoreapp2.2\DynamoDB.NetCore.csproj.CoreCompileInputs.cache
+c:\Users\kswislocki\Desktop\Projekty\DynamoDB.NetCore\obj\Debug\netcoreapp2.2\DynamoDB.NetCore.AssemblyInfoInputs.cache
+c:\Users\kswislocki\Desktop\Projekty\DynamoDB.NetCore\obj\Debug\netcoreapp2.2\DynamoDB.NetCore.AssemblyInfo.cs
+c:\Users\kswislocki\Desktop\Projekty\DynamoDB.NetCore\obj\Debug\netcoreapp2.2\DynamoDB.NetCore.dll
+c:\Users\kswislocki\Desktop\Projekty\DynamoDB.NetCore\obj\Debug\netcoreapp2.2\DynamoDB.NetCore.pdb
