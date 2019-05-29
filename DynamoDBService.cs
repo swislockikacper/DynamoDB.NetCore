@@ -11,8 +11,8 @@ namespace DynamoDB.NetCore
 {
     class DynamoDBService
     {
-        private const string accessKey = "AKIA3B2NJPV3EL3H4N53";
-        private const string secretKey = "d8uy/ntbCus8rhUx51SGf0xlhpTCsDF1jwsLM1o5";
+        private const string accessKey = "PLACEHOLDER";
+        private const string secretKey = "PLACEHOLDER";
         private readonly AmazonDynamoDBClient client;
         private readonly DynamoDBContext context;
 
